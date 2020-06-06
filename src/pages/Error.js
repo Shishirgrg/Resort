@@ -1,5 +1,6 @@
+import Hero from "../components/Hero";
 import React from "react";
 
 export default function Error() {
-  return <div>Hello from error</div>;
+  return <Hero />;
 }
